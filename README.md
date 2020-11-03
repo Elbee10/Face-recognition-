@@ -1,1 +1,1 @@
-# Face-recognition-with supervised learning
+# Face-recognition- school attendance with supervised learning
